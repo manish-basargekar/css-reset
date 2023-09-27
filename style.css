@@ -12,6 +12,8 @@ body {
 	height: 100%;
     /* if you want 1rem = 10px, easier for calculations */
     /* font-size: 62.5%; */ 
+	 -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
 }
 body {
 	/* line-height: 1.5; */
